@@ -25,6 +25,8 @@ button:hover {
 #yellow-lamp {
 
     display: none;
-   
+    position: absolute;
+    top: 1px;
+    right: 1307px;
 }
 
